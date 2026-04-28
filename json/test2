@@ -2,7 +2,7 @@
   "items": [
     {
       "id": "1",
-      "type": "maps",
+      "type": "article",
       "title": "Test Pin",
       "subtitle": "Test",
       "content": "Test",
