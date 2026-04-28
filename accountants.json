@@ -1,0 +1,171 @@
+{
+  "items": [
+    {
+      "id": "accountants-001",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "North Devon Accounts",
+      "summary": "Accountancy, bookkeeping and VAT support with Barnstaple and Braunton offices.",
+      "content": "Accountancy, bookkeeping and VAT support with Barnstaple and Braunton offices. This listing is part of the Barnstaple local business directory. Please check opening times and services directly with the business before travelling.",
+      "address": "Barnstaple, North Devon",
+      "latitude": "51.080900",
+      "longitude": "-4.058300",
+      "phoneNumber": "",
+      "website": "https://northdevonaccounts.co.uk/",
+      "email": "",
+      "categories": [
+        "Accountants"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/accountants.svg",
+      "smallThumbnail": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/accountants.svg",
+      "largeThumbnail": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/accountants.svg",
+      "originalThumbnail": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/accountants.svg",
+      "images": [
+        {
+          "id": "north-devon-accounts-placeholder",
+          "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/accountants.svg"
+        }
+      ],
+      "pinIconColor": "#0077B6",
+      "date": "2026-04-28T12:00:00+01:00",
+      "author": "Barnstaple Business Directory",
+      "url": "https://northdevonaccounts.co.uk/",
+      "sourceUrl": "https://northdevonaccounts.co.uk/",
+      "coordinateAccuracy": "approximate - verify before publishing"
+    },
+    {
+      "id": "accountants-002",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Evans & Co Accountants and Tax Consultants Ltd",
+      "summary": "Accountancy and tax consultant services for businesses and individuals.",
+      "content": "Accountancy and tax consultant services for businesses and individuals. This listing is part of the Barnstaple local business directory. Please check opening times and services directly with the business before travelling.",
+      "address": "Barnstaple, North Devon",
+      "latitude": "51.080900",
+      "longitude": "-4.058300",
+      "phoneNumber": "",
+      "website": "https://www.evans-accountants.co.uk/",
+      "email": "",
+      "categories": [
+        "Accountants"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/accountants.svg",
+      "smallThumbnail": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/accountants.svg",
+      "largeThumbnail": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/accountants.svg",
+      "originalThumbnail": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/accountants.svg",
+      "images": [
+        {
+          "id": "evans-co-accountants-and-tax-consultants-ltd-placeholder",
+          "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/accountants.svg"
+        }
+      ],
+      "pinIconColor": "#0077B6",
+      "date": "2026-04-28T12:00:00+01:00",
+      "author": "Barnstaple Business Directory",
+      "url": "https://www.evans-accountants.co.uk/",
+      "sourceUrl": "https://www.evans-accountants.co.uk/",
+      "coordinateAccuracy": "approximate - verify before publishing"
+    },
+    {
+      "id": "accountants-003",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "LCA Services Ltd",
+      "summary": "Chartered accountancy firm based on Silver Street.",
+      "content": "Chartered accountancy firm based on Silver Street. This listing is part of the Barnstaple local business directory. Please check opening times and services directly with the business before travelling.",
+      "address": "13 Silver Street, Barnstaple, EX32 8HR",
+      "latitude": "51.081400",
+      "longitude": "-4.060000",
+      "phoneNumber": "01271 378868",
+      "website": "https://www.lcaca.co.uk/",
+      "email": "",
+      "categories": [
+        "Accountants"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/accountants.svg",
+      "smallThumbnail": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/accountants.svg",
+      "largeThumbnail": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/accountants.svg",
+      "originalThumbnail": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/accountants.svg",
+      "images": [
+        {
+          "id": "lca-services-ltd-placeholder",
+          "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/accountants.svg"
+        }
+      ],
+      "pinIconColor": "#0077B6",
+      "date": "2026-04-28T12:00:00+01:00",
+      "author": "Barnstaple Business Directory",
+      "url": "https://www.lcaca.co.uk/",
+      "sourceUrl": "https://find.icaew.com/firms/barnstaple/lca-services-ltd/Z1NCNiN",
+      "coordinateAccuracy": "approximate - verify before publishing"
+    },
+    {
+      "id": "accountants-004",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "TaxAssist Accountants Barnstaple",
+      "summary": "Local TaxAssist office offering accountancy and tax services.",
+      "content": "Local TaxAssist office offering accountancy and tax services. This listing is part of the Barnstaple local business directory. Please check opening times and services directly with the business before travelling.",
+      "address": "Barnstaple, North Devon",
+      "latitude": "51.080900",
+      "longitude": "-4.058300",
+      "phoneNumber": "0800 0523 555",
+      "website": "https://www.taxassist.co.uk/accountants/barnstaple",
+      "email": "",
+      "categories": [
+        "Accountants"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/accountants.svg",
+      "smallThumbnail": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/accountants.svg",
+      "largeThumbnail": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/accountants.svg",
+      "originalThumbnail": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/accountants.svg",
+      "images": [
+        {
+          "id": "taxassist-accountants-barnstaple-placeholder",
+          "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/accountants.svg"
+        }
+      ],
+      "pinIconColor": "#0077B6",
+      "date": "2026-04-28T12:00:00+01:00",
+      "author": "Barnstaple Business Directory",
+      "url": "https://www.taxassist.co.uk/accountants/barnstaple",
+      "sourceUrl": "https://www.taxassist.co.uk/accountants/barnstaple",
+      "coordinateAccuracy": "approximate - verify before publishing"
+    },
+    {
+      "id": "accountants-005",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Philip J Milton and Company PLC",
+      "summary": "Financial services, taxation, accountancy, wills, trusts and probate support.",
+      "content": "Financial services, taxation, accountancy, wills, trusts and probate support. This listing is part of the Barnstaple local business directory. Please check opening times and services directly with the business before travelling.",
+      "address": "Barnstaple, North Devon",
+      "latitude": "51.080900",
+      "longitude": "-4.058300",
+      "phoneNumber": "",
+      "website": "https://www.miltonpj.net/",
+      "email": "",
+      "categories": [
+        "Accountants"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/accountants.svg",
+      "smallThumbnail": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/accountants.svg",
+      "largeThumbnail": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/accountants.svg",
+      "originalThumbnail": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/accountants.svg",
+      "images": [
+        {
+          "id": "philip-j-milton-and-company-plc-placeholder",
+          "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/accountants.svg"
+        }
+      ],
+      "pinIconColor": "#0077B6",
+      "date": "2026-04-28T12:00:00+01:00",
+      "author": "Barnstaple Business Directory",
+      "url": "https://www.miltonpj.net/",
+      "sourceUrl": "https://www.barnstaple.co.uk/directory/all-listings",
+      "coordinateAccuracy": "approximate - verify before publishing"
+    }
+  ],
+  "next_page": null,
+  "stat": "ok"
+}

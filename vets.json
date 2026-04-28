@@ -1,0 +1,138 @@
+{
+  "items": [
+    {
+      "id": "vets-001",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Vets4Pets Barnstaple",
+      "summary": "Veterinary practice providing pet care and veterinary services in Barnstaple.",
+      "content": "Veterinary practice providing pet care and veterinary services in Barnstaple. This listing is part of the Barnstaple local business directory. Please check opening times and services directly with the business before travelling.",
+      "address": "Inside Pets at Home, Unit 3 Barnstaple Retail Park, Station Road, Barnstaple, EX31 2AU",
+      "latitude": "51.078200",
+      "longitude": "-4.063200",
+      "phoneNumber": "01271 335520",
+      "website": "https://www.vets4pets.com/practices/vets4pets-barnstaple/",
+      "email": "",
+      "categories": [
+        "Vets"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/vets.svg",
+      "smallThumbnail": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/vets.svg",
+      "largeThumbnail": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/vets.svg",
+      "originalThumbnail": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/vets.svg",
+      "images": [
+        {
+          "id": "vets4pets-barnstaple-placeholder",
+          "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/vets.svg"
+        }
+      ],
+      "pinIconColor": "#0077B6",
+      "date": "2026-04-28T12:00:00+01:00",
+      "author": "Barnstaple Business Directory",
+      "url": "https://www.vets4pets.com/practices/vets4pets-barnstaple/",
+      "sourceUrl": "https://findavet.rcvs.org.uk/find-a-vet-practice/barnstaple-vets4pets-ltd-barnstapleex31-2au/",
+      "coordinateAccuracy": "approximate - verify before publishing"
+    },
+    {
+      "id": "vets-002",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Argyll Veterinary Centre Barnstaple",
+      "summary": "Veterinary practice providing pet care and veterinary services in Barnstaple.",
+      "content": "Veterinary practice providing pet care and veterinary services in Barnstaple. This listing is part of the Barnstaple local business directory. Please check opening times and services directly with the business before travelling.",
+      "address": "Barnstaple, North Devon",
+      "latitude": "51.080900",
+      "longitude": "-4.058300",
+      "phoneNumber": "01271 375356",
+      "website": "https://www.cvsvets.com/south-west/argyll-veterinary-centre-barnstaple",
+      "email": "",
+      "categories": [
+        "Vets"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/vets.svg",
+      "smallThumbnail": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/vets.svg",
+      "largeThumbnail": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/vets.svg",
+      "originalThumbnail": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/vets.svg",
+      "images": [
+        {
+          "id": "argyll-veterinary-centre-barnstaple-placeholder",
+          "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/vets.svg"
+        }
+      ],
+      "pinIconColor": "#0077B6",
+      "date": "2026-04-28T12:00:00+01:00",
+      "author": "Barnstaple Business Directory",
+      "url": "https://www.cvsvets.com/south-west/argyll-veterinary-centre-barnstaple",
+      "sourceUrl": "https://www.cvsvets.com/south-west/argyll-veterinary-centre-barnstaple",
+      "coordinateAccuracy": "approximate - verify before publishing"
+    },
+    {
+      "id": "vets-003",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Market Vets Barnstaple",
+      "summary": "Veterinary practice providing pet care and veterinary services in Barnstaple.",
+      "content": "Veterinary practice providing pet care and veterinary services in Barnstaple. This listing is part of the Barnstaple local business directory. Please check opening times and services directly with the business before travelling.",
+      "address": "Unit A Riverview Commercial Centre, Riverside Road, Barnstaple, EX31 1QN",
+      "latitude": "51.076500",
+      "longitude": "-4.061500",
+      "phoneNumber": "01271 344262",
+      "website": "https://www.marketvets.co.uk/",
+      "email": "",
+      "categories": [
+        "Vets"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/vets.svg",
+      "smallThumbnail": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/vets.svg",
+      "largeThumbnail": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/vets.svg",
+      "originalThumbnail": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/vets.svg",
+      "images": [
+        {
+          "id": "market-vets-barnstaple-placeholder",
+          "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/vets.svg"
+        }
+      ],
+      "pinIconColor": "#0077B6",
+      "date": "2026-04-28T12:00:00+01:00",
+      "author": "Barnstaple Business Directory",
+      "url": "https://www.marketvets.co.uk/",
+      "sourceUrl": "https://findavet.rcvs.org.uk/find-a-vet-practice/barnstaple-veterinary-clinic-market-vets-barnstapleex31-1qn/",
+      "coordinateAccuracy": "approximate - verify before publishing"
+    },
+    {
+      "id": "vets-004",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Bridge House Veterinary Surgery",
+      "summary": "Veterinary practice providing pet care and veterinary services in Barnstaple.",
+      "content": "Veterinary practice providing pet care and veterinary services in Barnstaple. This listing is part of the Barnstaple local business directory. Please check opening times and services directly with the business before travelling.",
+      "address": "Barnstaple, North Devon",
+      "latitude": "51.080900",
+      "longitude": "-4.058300",
+      "phoneNumber": "01271 342119",
+      "website": "https://www.cvsvets.com/south-west/charter-vets-bridge-house-veterinary-surgery",
+      "email": "",
+      "categories": [
+        "Vets"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/vets.svg",
+      "smallThumbnail": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/vets.svg",
+      "largeThumbnail": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/vets.svg",
+      "originalThumbnail": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/vets.svg",
+      "images": [
+        {
+          "id": "bridge-house-veterinary-surgery-placeholder",
+          "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/vets.svg"
+        }
+      ],
+      "pinIconColor": "#0077B6",
+      "date": "2026-04-28T12:00:00+01:00",
+      "author": "Barnstaple Business Directory",
+      "url": "https://www.cvsvets.com/south-west/charter-vets-bridge-house-veterinary-surgery",
+      "sourceUrl": "https://www.cvsvets.com/south-west/charter-vets-bridge-house-veterinary-surgery",
+      "coordinateAccuracy": "approximate - verify before publishing"
+    }
+  ],
+  "next_page": null,
+  "stat": "ok"
+}

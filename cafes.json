@@ -1,0 +1,138 @@
+{
+  "items": [
+    {
+      "id": "cafes-001",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Queen Anne’s Cafe on the Strand",
+      "summary": "Cafe on The Strand serving breakfast, drinks and daytime food.",
+      "content": "Cafe on The Strand serving breakfast, drinks and daytime food. This listing is part of the Barnstaple local business directory. Please check opening times and services directly with the business before travelling.",
+      "address": "The Strand, Barnstaple",
+      "latitude": "51.080000",
+      "longitude": "-4.057100",
+      "phoneNumber": "01271 325232",
+      "website": "https://cafeonthestrand.co.uk/",
+      "email": "",
+      "categories": [
+        "Cafes"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/cafes.svg",
+      "smallThumbnail": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/cafes.svg",
+      "largeThumbnail": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/cafes.svg",
+      "originalThumbnail": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/cafes.svg",
+      "images": [
+        {
+          "id": "queen-anne-s-cafe-on-the-strand-placeholder",
+          "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/cafes.svg"
+        }
+      ],
+      "pinIconColor": "#0077B6",
+      "date": "2026-04-28T12:00:00+01:00",
+      "author": "Barnstaple Business Directory",
+      "url": "https://cafeonthestrand.co.uk/",
+      "sourceUrl": "https://cafeonthestrand.co.uk/",
+      "coordinateAccuracy": "approximate - verify before publishing"
+    },
+    {
+      "id": "cafes-002",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "HubCafe",
+      "summary": "Modern cafe in Node Cowork serving coffee, breakfast and homemade lunches.",
+      "content": "Modern cafe in Node Cowork serving coffee, breakfast and homemade lunches. This listing is part of the Barnstaple local business directory. Please check opening times and services directly with the business before travelling.",
+      "address": "Node Cowork, Barnstaple",
+      "latitude": "51.080900",
+      "longitude": "-4.058300",
+      "phoneNumber": "",
+      "website": "https://www.hubcafe.uk/",
+      "email": "",
+      "categories": [
+        "Cafes"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/cafes.svg",
+      "smallThumbnail": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/cafes.svg",
+      "largeThumbnail": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/cafes.svg",
+      "originalThumbnail": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/cafes.svg",
+      "images": [
+        {
+          "id": "hubcafe-placeholder",
+          "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/cafes.svg"
+        }
+      ],
+      "pinIconColor": "#0077B6",
+      "date": "2026-04-28T12:00:00+01:00",
+      "author": "Barnstaple Business Directory",
+      "url": "https://www.hubcafe.uk/",
+      "sourceUrl": "https://www.hubcafe.uk/",
+      "coordinateAccuracy": "approximate - verify before publishing"
+    },
+    {
+      "id": "cafes-003",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "The Boutport Cafe",
+      "summary": "Award-winning cafe in Barnstaple with a dog-friendly reputation.",
+      "content": "Award-winning cafe in Barnstaple with a dog-friendly reputation. This listing is part of the Barnstaple local business directory. Please check opening times and services directly with the business before travelling.",
+      "address": "Boutport Street, Barnstaple",
+      "latitude": "51.081300",
+      "longitude": "-4.060100",
+      "phoneNumber": "",
+      "website": "",
+      "email": "",
+      "categories": [
+        "Cafes"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/cafes.svg",
+      "smallThumbnail": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/cafes.svg",
+      "largeThumbnail": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/cafes.svg",
+      "originalThumbnail": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/cafes.svg",
+      "images": [
+        {
+          "id": "the-boutport-cafe-placeholder",
+          "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/cafes.svg"
+        }
+      ],
+      "pinIconColor": "#0077B6",
+      "date": "2026-04-28T12:00:00+01:00",
+      "author": "Barnstaple Business Directory",
+      "url": "https://www.google.com/search?q=The+Boutport+Cafe+Barnstaple",
+      "sourceUrl": "https://www.barnstaple.co.uk/directory/all-listings",
+      "coordinateAccuracy": "approximate - verify before publishing"
+    },
+    {
+      "id": "cafes-004",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "The Plant Bar",
+      "summary": "Family-run plant-based food and drink venue with gluten-free options.",
+      "content": "Family-run plant-based food and drink venue with gluten-free options. This listing is part of the Barnstaple local business directory. Please check opening times and services directly with the business before travelling.",
+      "address": "Barnstaple town centre",
+      "latitude": "51.080900",
+      "longitude": "-4.058300",
+      "phoneNumber": "",
+      "website": "",
+      "email": "",
+      "categories": [
+        "Cafes"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/cafes.svg",
+      "smallThumbnail": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/cafes.svg",
+      "largeThumbnail": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/cafes.svg",
+      "originalThumbnail": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/cafes.svg",
+      "images": [
+        {
+          "id": "the-plant-bar-placeholder",
+          "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/cafes.svg"
+        }
+      ],
+      "pinIconColor": "#0077B6",
+      "date": "2026-04-28T12:00:00+01:00",
+      "author": "Barnstaple Business Directory",
+      "url": "https://www.google.com/search?q=The+Plant+Bar+Barnstaple",
+      "sourceUrl": "https://www.barnstaple.co.uk/directory/all-listings",
+      "coordinateAccuracy": "approximate - verify before publishing"
+    }
+  ],
+  "next_page": null,
+  "stat": "ok"
+}

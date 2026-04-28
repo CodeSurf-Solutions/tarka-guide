@@ -1,0 +1,72 @@
+{
+  "items": [
+    {
+      "id": "hair-beauty-001",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Charleys Hairdressers",
+      "summary": "Ladies and gents hairdresser based in Joy Street.",
+      "content": "Ladies and gents hairdresser based in Joy Street. This listing is part of the Barnstaple local business directory. Please check opening times and services directly with the business before travelling.",
+      "address": "14 Joy Street, Barnstaple, EX31 1HE",
+      "latitude": "51.080300",
+      "longitude": "-4.060300",
+      "phoneNumber": "01271 327337",
+      "website": "https://www.charleyshairdressing.co.uk/contact.html",
+      "email": "",
+      "categories": [
+        "Hair & Beauty"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/hair-beauty.svg",
+      "smallThumbnail": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/hair-beauty.svg",
+      "largeThumbnail": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/hair-beauty.svg",
+      "originalThumbnail": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/hair-beauty.svg",
+      "images": [
+        {
+          "id": "charleys-hairdressers-placeholder",
+          "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/hair-beauty.svg"
+        }
+      ],
+      "pinIconColor": "#0077B6",
+      "date": "2026-04-28T12:00:00+01:00",
+      "author": "Barnstaple Business Directory",
+      "url": "https://www.charleyshairdressing.co.uk/contact.html",
+      "sourceUrl": "https://www.charleyshairdressing.co.uk/contact.html",
+      "coordinateAccuracy": "approximate - verify before publishing"
+    },
+    {
+      "id": "hair-beauty-002",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Petroc Hair & Beauty Academies",
+      "summary": "Student-led hair and beauty services at Petroc North Devon Campus.",
+      "content": "Student-led hair and beauty services at Petroc North Devon Campus. This listing is part of the Barnstaple local business directory. Please check opening times and services directly with the business before travelling.",
+      "address": "Petroc North Devon Campus, Barnstaple",
+      "latitude": "51.080900",
+      "longitude": "-4.058300",
+      "phoneNumber": "",
+      "website": "https://www.petroc.ac.uk/community/hair-beauty-academies/",
+      "email": "",
+      "categories": [
+        "Hair & Beauty"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/hair-beauty.svg",
+      "smallThumbnail": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/hair-beauty.svg",
+      "largeThumbnail": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/hair-beauty.svg",
+      "originalThumbnail": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/hair-beauty.svg",
+      "images": [
+        {
+          "id": "petroc-hair-beauty-academies-placeholder",
+          "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/barnstaple-business-directory/main/images/placeholders/hair-beauty.svg"
+        }
+      ],
+      "pinIconColor": "#0077B6",
+      "date": "2026-04-28T12:00:00+01:00",
+      "author": "Barnstaple Business Directory",
+      "url": "https://www.petroc.ac.uk/community/hair-beauty-academies/",
+      "sourceUrl": "https://www.petroc.ac.uk/community/hair-beauty-academies/barber-shop/",
+      "coordinateAccuracy": "approximate - verify before publishing"
+    }
+  ],
+  "next_page": null,
+  "stat": "ok"
+}
