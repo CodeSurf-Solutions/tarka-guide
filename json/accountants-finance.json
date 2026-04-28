@@ -37,7 +37,7 @@
     },
     {
       "id": "accountants-finance-002",
-      "type": "place",
+      "type": "event",
       "subtype": "custom",
       "title": "Westcotts Barnstaple",
       "summary": "Chartered accountants offering tax, audit, business advisory and planning services.",
@@ -72,7 +72,7 @@
     },
     {
       "id": "accountants-finance-003",
-      "type": "place",
+      "type": "event",
       "subtype": "custom",
       "title": "Simpkins Edwards Barnstaple",
       "summary": "Accountancy firm providing advice for businesses, individuals and specialist sectors.",
@@ -107,7 +107,7 @@
     },
     {
       "id": "accountants-finance-004",
-      "type": "place",
+      "type": "event",
       "subtype": "custom",
       "title": "Streets Chartered Accountants Barnstaple",
       "summary": "Accountancy, tax, payroll and business advisory services for North Devon clients.",
@@ -142,7 +142,7 @@
     },
     {
       "id": "accountants-finance-005",
-      "type": "place",
+      "type": "event",
       "subtype": "custom",
       "title": "Stevens & Willey",
       "summary": "Chartered certified accountants working with businesses, sole traders and individuals.",
