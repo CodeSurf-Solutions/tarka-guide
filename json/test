@@ -3,9 +3,9 @@
     {
       "id": "1",
       "type": "article",
-      "title": "Barnstaple Test Pin",
-      "subtitle": "Test location",
-      "content": "If this shows a pin, your setup is fixed.",
+      "title": "Test Pin",
+      "subtitle": "Test",
+      "content": "Test",
       "address": "Barnstaple, Devon, United Kingdom",
       "latitude": "51.0809",
       "longitude": "-4.0583",
