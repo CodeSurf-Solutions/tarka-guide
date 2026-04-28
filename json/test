@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "id": "test-1",
+      "type": "maps",
+      "title": "Barnstaple Test Pin",
+      "content": "Test pin",
+      "address": "Barnstaple, Devon, United Kingdom",
+      "latitude": "51.0809",
+      "longitude": "-4.0583",
+      "thumbnail": "https://raw.githubusercontent.com/CodeSurf-Solutions/tarka-guide/main/images/accountants-finance.png"
+    }
+  ]
+}
