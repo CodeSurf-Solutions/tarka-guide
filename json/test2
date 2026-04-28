@@ -3,12 +3,13 @@
     {
       "id": "1",
       "type": "article",
-      "title": "Test Pin",
-      "subtitle": "Test",
-      "content": "Test",
-      "address": "Barnstaple, Devon, United Kingdom",
-      "latitude": "51.0809",
-      "longitude": "-4.0583",
+      "title": "Barnstaple Test Pin",
+      "subtitle": "Test location",
+      "content": "If this shows a pin, it's fixed.",
+      "geoloc": {
+        "lat": 51.0809,
+        "long": -4.0583
+      },
       "thumbnail": "https://raw.githubusercontent.com/CodeSurf-Solutions/tarka-guide/main/images/accountants-finance.png"
     }
   ]
