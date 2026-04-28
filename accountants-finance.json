@@ -1,0 +1,166 @@
+{
+  "items": [
+    {
+      "id": "accountants-finance-001",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Philip J Milton and Company PLC",
+      "summary": "Financial services, taxation, accountancy, wills, trusts, probate and estate administration.",
+      "content": "Financial services, taxation, accountancy, wills, trusts, probate and estate administration.<br><br>Featured in Tarka Guide, a local business directory for Barnstaple and the surrounding area, created by <a href=\"https://www.codesurfsolutions.co.uk\">CodeSurf Solutions</a>.",
+      "address": "Barnstaple, North Devon",
+      "latitude": "51.074909",
+      "longitude": "-4.049075",
+      "phoneNumber": "",
+      "website": "https://www.miltonpj.net",
+      "email": "",
+      "categories": [
+        "Accountants & Finance"
+      ],
+      "thumbnail": "images/accountants-finance.svg",
+      "smallThumbnail": "images/accountants-finance.svg",
+      "largeThumbnail": "images/accountants-finance.svg",
+      "originalThumbnail": "images/accountants-finance.svg",
+      "images": [
+        {
+          "id": "accountants-finance-001-image",
+          "url": "images/accountants-finance.svg"
+        }
+      ],
+      "pinIconColor": "#0077B6",
+      "date": "2026-04-28T12:00:00+01:00",
+      "author": "Tarka Guide",
+      "url": "https://www.codesurfsolutions.co.uk/tarka-guide/accountants-finance/philip-j-milton-and-company-plc",
+      "dataQualityNote": "Coordinates are approximate and should be checked before publishing. Blank phone/website fields were left blank where not verified."
+    },
+    {
+      "id": "accountants-finance-002",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Westcotts Barnstaple",
+      "summary": "Chartered accountants offering tax, audit, business advisory and planning services.",
+      "content": "Chartered accountants offering tax, audit, business advisory and planning services.<br><br>Featured in Tarka Guide, a local business directory for Barnstaple and the surrounding area, created by <a href=\"https://www.codesurfsolutions.co.uk\">CodeSurf Solutions</a>.",
+      "address": "Barnstaple, North Devon",
+      "latitude": "51.067377",
+      "longitude": "-4.061923",
+      "phoneNumber": "",
+      "website": "https://westcotts.uk/contact-us/barnstaple/",
+      "email": "",
+      "categories": [
+        "Accountants & Finance"
+      ],
+      "thumbnail": "images/accountants-finance.svg",
+      "smallThumbnail": "images/accountants-finance.svg",
+      "largeThumbnail": "images/accountants-finance.svg",
+      "originalThumbnail": "images/accountants-finance.svg",
+      "images": [
+        {
+          "id": "accountants-finance-002-image",
+          "url": "images/accountants-finance.svg"
+        }
+      ],
+      "pinIconColor": "#0077B6",
+      "date": "2026-04-28T12:00:00+01:00",
+      "author": "Tarka Guide",
+      "url": "https://www.codesurfsolutions.co.uk/tarka-guide/accountants-finance/westcotts-barnstaple",
+      "dataQualityNote": "Coordinates are approximate and should be checked before publishing. Blank phone/website fields were left blank where not verified."
+    },
+    {
+      "id": "accountants-finance-003",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Simpkins Edwards Barnstaple",
+      "summary": "Accountancy firm providing advice for businesses, individuals and specialist sectors.",
+      "content": "Accountancy firm providing advice for businesses, individuals and specialist sectors.<br><br>Featured in Tarka Guide, a local business directory for Barnstaple and the surrounding area, created by <a href=\"https://www.codesurfsolutions.co.uk\">CodeSurf Solutions</a>.",
+      "address": "Barnstaple, North Devon",
+      "latitude": "51.072400",
+      "longitude": "-4.043578",
+      "phoneNumber": "",
+      "website": "https://www.simpkinsedwards.co.uk/offices/barnstaple-office",
+      "email": "",
+      "categories": [
+        "Accountants & Finance"
+      ],
+      "thumbnail": "images/accountants-finance.svg",
+      "smallThumbnail": "images/accountants-finance.svg",
+      "largeThumbnail": "images/accountants-finance.svg",
+      "originalThumbnail": "images/accountants-finance.svg",
+      "images": [
+        {
+          "id": "accountants-finance-003-image",
+          "url": "images/accountants-finance.svg"
+        }
+      ],
+      "pinIconColor": "#0077B6",
+      "date": "2026-04-28T12:00:00+01:00",
+      "author": "Tarka Guide",
+      "url": "https://www.codesurfsolutions.co.uk/tarka-guide/accountants-finance/simpkins-edwards-barnstaple",
+      "dataQualityNote": "Coordinates are approximate and should be checked before publishing. Blank phone/website fields were left blank where not verified."
+    },
+    {
+      "id": "accountants-finance-004",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Streets Chartered Accountants Barnstaple",
+      "summary": "Accountancy, tax, payroll and business advisory services for North Devon clients.",
+      "content": "Accountancy, tax, payroll and business advisory services for North Devon clients.<br><br>Featured in Tarka Guide, a local business directory for Barnstaple and the surrounding area, created by <a href=\"https://www.codesurfsolutions.co.uk\">CodeSurf Solutions</a>.",
+      "address": "Barnstaple, North Devon",
+      "latitude": "51.063241",
+      "longitude": "-4.048911",
+      "phoneNumber": "",
+      "website": "https://www.streets.uk/our-offices/barnstaple/",
+      "email": "",
+      "categories": [
+        "Accountants & Finance"
+      ],
+      "thumbnail": "images/accountants-finance.svg",
+      "smallThumbnail": "images/accountants-finance.svg",
+      "largeThumbnail": "images/accountants-finance.svg",
+      "originalThumbnail": "images/accountants-finance.svg",
+      "images": [
+        {
+          "id": "accountants-finance-004-image",
+          "url": "images/accountants-finance.svg"
+        }
+      ],
+      "pinIconColor": "#0077B6",
+      "date": "2026-04-28T12:00:00+01:00",
+      "author": "Tarka Guide",
+      "url": "https://www.codesurfsolutions.co.uk/tarka-guide/accountants-finance/streets-chartered-accountants-barnstaple",
+      "dataQualityNote": "Coordinates are approximate and should be checked before publishing. Blank phone/website fields were left blank where not verified."
+    },
+    {
+      "id": "accountants-finance-005",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Stevens & Willey",
+      "summary": "Chartered certified accountants working with businesses, sole traders and individuals.",
+      "content": "Chartered certified accountants working with businesses, sole traders and individuals.<br><br>Featured in Tarka Guide, a local business directory for Barnstaple and the surrounding area, created by <a href=\"https://www.codesurfsolutions.co.uk\">CodeSurf Solutions</a>.",
+      "address": "Barnstaple, North Devon",
+      "latitude": "51.098258",
+      "longitude": "-4.073389",
+      "phoneNumber": "",
+      "website": "https://www.stevensandwilley.co.uk/",
+      "email": "",
+      "categories": [
+        "Accountants & Finance"
+      ],
+      "thumbnail": "images/accountants-finance.svg",
+      "smallThumbnail": "images/accountants-finance.svg",
+      "largeThumbnail": "images/accountants-finance.svg",
+      "originalThumbnail": "images/accountants-finance.svg",
+      "images": [
+        {
+          "id": "accountants-finance-005-image",
+          "url": "images/accountants-finance.svg"
+        }
+      ],
+      "pinIconColor": "#0077B6",
+      "date": "2026-04-28T12:00:00+01:00",
+      "author": "Tarka Guide",
+      "url": "https://www.codesurfsolutions.co.uk/tarka-guide/accountants-finance/stevens-willey",
+      "dataQualityNote": "Coordinates are approximate and should be checked before publishing. Blank phone/website fields were left blank where not verified."
+    }
+  ],
+  "next_page": null,
+  "stat": "ok"
+}
