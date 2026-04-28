@@ -2,7 +2,7 @@
   "items": [
     {
       "id": "1",
-      "type": "place",
+      "type": "event",
       "title": "Barnstaple Test Pin",
       "address": "Barnstaple, Devon, UK",
       "latitude": "51.0809",
