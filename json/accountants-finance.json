@@ -2,7 +2,7 @@
   "items": [
     {
       "id": "accountants-finance-001",
-      "type": "event",
+      "type": "place",
       "subtype": "custom",
       "title": "Philip J Milton and Company PLC",
       "summary": "Financial services, taxation, accountancy, wills, trusts, probate and estate administration.",
