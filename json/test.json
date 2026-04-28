@@ -1,0 +1,12 @@
+{
+  "id": "unique-id",
+  "type": "place",
+  "title": "Business Name",
+  "address": "Full Address, Barnstaple, UK",
+  "latitude": "51.0809",
+  "longitude": "-4.0583",
+  "phoneNumber": "01271...",
+  "website": "https://...",
+  "thumbnail": "https://raw.githubusercontent.com/CodeSurf-Solutions/tarka-guide/main/images/category.png",
+  "content": "Your Tarka Guide text here"
+}
