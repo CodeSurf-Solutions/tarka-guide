@@ -8,7 +8,10 @@
       "address": "Barnstaple, Devon, United Kingdom",
       "latitude": "51.0809",
       "longitude": "-4.0583",
-      "thumbnail": "https://raw.githubusercontent.com/CodeSurf-Solutions/tarka-guide/main/images/accountants-finance.png"
+      "thumbnail": "https://raw.githubusercontent.com/CodeSurf-Solutions/tarka-guide/main/images/accountants-finance.png",
+      "pinIconUrl": "https://raw.githubusercontent.com/CodeSurf-Solutions/tarka-guide/main/images/map-pin.png",
+      "pinIconWidth": "64",
+      "pinIconHeight": "64"
     }
   ]
 }
